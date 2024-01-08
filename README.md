@@ -12,9 +12,9 @@ V2 제작자
 
 ## 기술스택 (Frontend)
 
-Frameworks: `React Native Expo`
-Languages: `TypeScript`
-Code Formating: `Prettier`, `ESLint`, `Husky`, `Lint-Staged`
+Frameworks: `React Native Expo` \
+Languages: `TypeScript` \
+Code Formating: `Prettier`, `ESLint`, `Husky`, `Lint-Staged` \
 Package Manager: `Yarn`
 
 ## 기술스택 (Backend)
